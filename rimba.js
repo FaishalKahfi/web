@@ -317,8 +317,8 @@ out+=`
 <div class="col-1-3 center">
 <div class="my-4">
 ${svg.view.icon(val.icon)}</div>
-<b>Full Support</b>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+<b>Social Media</b>
+<p>Ini Adalah Social Media.</p>
 </div>
 `;
 }
